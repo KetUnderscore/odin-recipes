@@ -1,4 +1,8 @@
+body {
+    background-color: tan;
+}
+
 img {
-    width: 10%;
+    max-width: 10%;
     height: auto;
 }
